@@ -9,7 +9,7 @@ const WeatherApp = () => {
     const [data, setData] = useState({})
     const [location, setLocation] = useState("")
     const [loading, setLoading] = useState(false)
-    const api_key = 'b363fa724d26cbc3ff176d70d0119e43'
+    const api_key = 'YOUR_API_KEY_HERE'
 
     useEffect(() => {
         const fetchDefaultWeather = async () => {
