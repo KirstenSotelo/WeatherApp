@@ -2,6 +2,13 @@
 
 A simple weather application built with **React.js** that fetches real-time weather data using the OpenWeatherMap API.
 
+## 🛠️ TO-DO (Developer note):
+- Deploy on mobile (if possible)
+- Ensure responsiveness
+- Display more features using OpenWeatherMap API (potentially add more statistics on fetched data)
+- Display current time
+- Add more variety of images depending on weather AND time of day (displaying a sun for clear weather but for night time doesn't really make much sense)
+
 ## 🚀 Features
 
 - 🌍 View the weather of any city worldwide
