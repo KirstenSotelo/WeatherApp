@@ -70,7 +70,7 @@ This project uses the OpenWeatherMap API. To use it:
 - The app fetches and displays the weather for the searched location.
 - If a city is not found, an error message appears.
 
-##🎯 Future Improvements
+## 🎯 Future Improvements
 - 🌡️ Add a 5-day weather forecast
 - 🌎 Display weather for the user's current location
 - 📱 Improve UI/UX with more animations
