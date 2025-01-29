@@ -52,12 +52,12 @@ This project uses the OpenWeatherMap API. To use it:
    ```bash
    npm install
 
-3. **Run the Development Server
+3. **Run the Development Server**
    Make sure you are in the weather-app directory
    ```bash
    npm run dev
 
-4. **Navigate to your Local Host
+4. **Navigate to your Local Host**
    Vite will show you a localhost url:
    ```bash
    Local:   http://localhost:5173/
